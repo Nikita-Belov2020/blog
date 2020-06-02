@@ -83,6 +83,9 @@ body{
 a{
 	text-decoration: none;
 }
+.header{
+	width: 100%;
+}
 .topnav{
 	position: absolute;
 	top:0px;
